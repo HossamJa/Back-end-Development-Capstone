@@ -27,7 +27,7 @@ Completed in Module 3: Main Django Application and Module 4: Deployment.
 - Implemented user authentication (signup, login, logout).
 - Integrated with microservices via API calls.
 - Deployed to IBM Kubernetes Service, Code Engine, and OpenShift.
-- Evidence screenshots (insert below):
+- Evidence screenshots:
 
   **Django Migrate**
   - ![Django Migrate](screenshots/django-migrate.PNG)
