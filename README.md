@@ -49,6 +49,9 @@ Completed in Module 3: Main Django Application and Module 4: Deployment.
    **Docker Build]**
   ![Docker Build](screenshots/deploy-getdjango-1.PNG)
 
+  **Songs Microservice & MongoDb in OpenShift**
+  ![Songs Microservice and MongoDb](screenshots/Songs-Microservice-and-MongoDb-in-OpenShift.PNG)
+
   **Kubectl Apply**
   ![Kubectl Apply](screenshots/deploy-getdjango-3.PNG)
 
