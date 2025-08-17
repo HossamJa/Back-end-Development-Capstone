@@ -114,4 +114,3 @@ Licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for deta
 ## Acknowledgments
 
 - IBM and Coursera for the Back-End Development Professional Certificate.
-```
